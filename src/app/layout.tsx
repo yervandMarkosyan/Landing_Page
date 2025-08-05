@@ -19,11 +19,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Photographer's Landing Page",
     description: "Discover the captivating work of a skilled photographer. Portraits, landscapes, and more — professionally displayed.",
-    url: "https://landing-page-git-main-yervand-markosyans-projects.vercel.app/",
+    url: "https://landing-page-yervand-markosyans-projects.vercel.app/",
     siteName: "Photographer's Landing Page",
     images: [
       {
-        url: "https://landing-page-git-main-yervand-markosyans-projects.vercel.app/og-image.jpg",
+        url: "https://landing-page-yervand-markosyans-projects.vercel.app/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Showcase of photographer's work",
